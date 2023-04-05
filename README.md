@@ -1,4 +1,4 @@
-## Hello, I'm Pedro 👋
+<center> ## Hello, I'm Pedro 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromacena/)    ![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)
 
@@ -16,4 +16,5 @@ Full Stack web developer and nanotech engineer, graduated in Ironhack's intensiv
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Python and Typescript
 - 📫 How to reach me: pedromacenac@gmail.com
+  </center>
 
